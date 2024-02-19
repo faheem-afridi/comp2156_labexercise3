@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/faheem-afridi/comp2156_labexercise3/static/css/main.f48a98bf.css",
+    "main.js": "/faheem-afridi/comp2156_labexercise3/static/js/main.6ae53e25.js",
+    "index.html": "/faheem-afridi/comp2156_labexercise3/index.html",
+    "main.f48a98bf.css.map": "/faheem-afridi/comp2156_labexercise3/static/css/main.f48a98bf.css.map",
+    "main.6ae53e25.js.map": "/faheem-afridi/comp2156_labexercise3/static/js/main.6ae53e25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f48a98bf.css",
+    "static/js/main.6ae53e25.js"
+  ]
+}
